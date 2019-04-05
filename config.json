@@ -7,6 +7,6 @@
     "sanic_server_port_pandas_internal": 3003,
     "jupyter_port": 3009,
     "whitelisted_urls_for_clients": ["http://localhost:3000"],
-    "demo_mapbox_token": "",
+    "demo_mapbox_token": "pk.eyJ1IjoiZ29vc2VuNzgiLCJhIjoiY2pwOG55N25jMHI2ZDNxcDVweXM3dGxkbyJ9.yU_O51KwKgX2FuiYUWNf1w",
     "demo_dataset_name": "146M_predictions_v2"
 }
